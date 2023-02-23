@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(155, 189, 196);
+}
+*{
+    margin: 4px;
+
+}
+#fname{
+    margin-right:60px;
+}
+ .mb-3{
+   
+    margin: top 25px;
+ }  
+
+ #mname{
+    margin: top 25px;
+
+ }
+#resume{
+    display:none ;
+ }
